@@ -1,0 +1,7 @@
+D:\hyoskim\webApplication1\WebApplication1\PracticeRun\bin\Debug\PracticeRun.exe.config
+D:\hyoskim\webApplication1\WebApplication1\PracticeRun\bin\Debug\PracticeRun.exe
+D:\hyoskim\webApplication1\WebApplication1\PracticeRun\bin\Debug\PracticeRun.pdb
+D:\hyoskim\webApplication1\WebApplication1\PracticeRun\obj\Debug\PracticeRun.csproj.AssemblyReference.cache
+D:\hyoskim\webApplication1\WebApplication1\PracticeRun\obj\Debug\PracticeRun.csproj.CoreCompileInputs.cache
+D:\hyoskim\webApplication1\WebApplication1\PracticeRun\obj\Debug\PracticeRun.exe
+D:\hyoskim\webApplication1\WebApplication1\PracticeRun\obj\Debug\PracticeRun.pdb
