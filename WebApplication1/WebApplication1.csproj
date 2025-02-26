@@ -100,7 +100,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
-    <Content Include="Board\Front.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
@@ -122,6 +121,7 @@
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="Account\Login.aspx" />
     <Content Include="Practice\board_write_done.aspx" />
     <Content Include="Practice\count.aspx" />
     <Content Include="Practice\Defalut.aspx" />
@@ -197,13 +197,6 @@
       <DependentUpon>About.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Board\Front.aspx.cs">
-      <DependentUpon>Front.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Board\Front.aspx.designer.cs">
-      <DependentUpon>Front.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Contact.aspx.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -220,6 +213,13 @@
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
     </Compile>
     <Compile Include="Practice\board_write_done.aspx.cs">
       <DependentUpon>board_write_done.aspx</DependentUpon>
@@ -267,6 +267,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Entity\" />
+    <Folder Include="Home\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
@@ -278,6 +280,12 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DBCon\DBCon.csproj">
+      <Project>{12750746-2cfb-40d1-a9c5-ae9b11d85056}</Project>
+      <Name>DBCon</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

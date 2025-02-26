@@ -7,11 +7,11 @@
 // </자동 생성됨>
 //------------------------------------------------------------------------------
 
-namespace WebApplication1.Board
+namespace WebApplication1.Login
 {
 
 
-    public partial class Front
+    public partial class Login
     {
 
         /// <summary>

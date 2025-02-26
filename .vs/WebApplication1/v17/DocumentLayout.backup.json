@@ -1,45 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\hyoskim\\webApplication1\\WebApplication1\\",
+  "WorkspaceRootPath": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8AB89003-D890-43B6-9D8E-92B0E0B6F3EC}|WebApplication1\\WebApplication1.csproj|d:\\hyoskim\\webapplication1\\webapplication1\\webapplication1\\board\\front.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{8AB89003-D890-43B6-9D8E-92B0E0B6F3EC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\board\\front.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{12750746-2CFB-40D1-A9C5-AE9B11D85056}|DBCon\\DBCon.csproj|D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\dbcon\\context\\account\\logincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12750746-2CFB-40D1-A9C5-AE9B11D85056}|DBCon\\DBCon.csproj|solutionrelative:dbcon\\context\\account\\logincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AB89003-D890-43B6-9D8E-92B0E0B6F3EC}|WebApplication1\\WebApplication1.csproj|D:\\hyoskim\\webApplication1\\WebApplication1\\webapplication1\\board\\front.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AB89003-D890-43B6-9D8E-92B0E0B6F3EC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\board\\front.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12750746-2CFB-40D1-A9C5-AE9B11D85056}|DBCon\\DBCon.csproj|d:\\hyoskim\\practice01\\c_sharp_commit_test\\dbcon\\base\\dbcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12750746-2CFB-40D1-A9C5-AE9B11D85056}|DBCon\\DBCon.csproj|solutionrelative:dbcon\\base\\dbcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12750746-2CFB-40D1-A9C5-AE9B11D85056}|DBCon\\DBCon.csproj|d:\\hyoskim\\webapplication1\\webapplication1\\dbcon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12750746-2CFB-40D1-A9C5-AE9B11D85056}|DBCon\\DBCon.csproj|D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\dbcon\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{12750746-2CFB-40D1-A9C5-AE9B11D85056}|DBCon\\DBCon.csproj|solutionrelative:dbcon\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12750746-2CFB-40D1-A9C5-AE9B11D85056}|DBCon\\DBCon.csproj|D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\dbcon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12750746-2CFB-40D1-A9C5-AE9B11D85056}|DBCon\\DBCon.csproj|solutionrelative:dbcon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12750746-2CFB-40D1-A9C5-AE9B11D85056}|DBCon\\DBCon.csproj|d:\\hyoskim\\webapplication1\\webapplication1\\dbcon\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{12750746-2CFB-40D1-A9C5-AE9B11D85056}|DBCon\\DBCon.csproj|d:\\hyoskim\\practice01\\c_sharp_commit_test\\dbcon\\entity\\account\\accountentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12750746-2CFB-40D1-A9C5-AE9B11D85056}|DBCon\\DBCon.csproj|solutionrelative:dbcon\\entity\\account\\accountentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB89003-D890-43B6-9D8E-92B0E0B6F3EC}|WebApplication1\\WebApplication1.csproj|D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\webapplication1\\account\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB89003-D890-43B6-9D8E-92B0E0B6F3EC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\account\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB89003-D890-43B6-9D8E-92B0E0B6F3EC}|WebApplication1\\WebApplication1.csproj|D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\webapplication1\\account\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8AB89003-D890-43B6-9D8E-92B0E0B6F3EC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\account\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12750746-2CFB-40D1-A9C5-AE9B11D85056}|DBCon\\DBCon.csproj|D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\dbcon\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{12750746-2CFB-40D1-A9C5-AE9B11D85056}|DBCon\\DBCon.csproj|solutionrelative:dbcon\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12750746-2CFB-40D1-A9C5-AE9B11D85056}|DBCon\\DBCon.csproj|D:\\hyoskim\\webApplication1\\WebApplication1\\dbcon\\dbcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12750746-2CFB-40D1-A9C5-AE9B11D85056}|DBCon\\DBCon.csproj|solutionrelative:dbcon\\dbcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AB89003-D890-43B6-9D8E-92B0E0B6F3EC}|WebApplication1\\WebApplication1.csproj|D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\webapplication1\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8AB89003-D890-43B6-9D8E-92B0E0B6F3EC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A71A9C09-FA2E-4F1F-BDC1-795D0A743767}|PracticeRun\\PracticeRun.csproj|d:\\hyoskim\\webapplication1\\webapplication1\\practicerun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A71A9C09-FA2E-4F1F-BDC1-795D0A743767}|PracticeRun\\PracticeRun.csproj|D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\practicerun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A71A9C09-FA2E-4F1F-BDC1-795D0A743767}|PracticeRun\\PracticeRun.csproj|solutionrelative:practicerun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A71A9C09-FA2E-4F1F-BDC1-795D0A743767}|PracticeRun\\PracticeRun.csproj|d:\\hyoskim\\webapplication1\\webapplication1\\practicerun\\pr_tuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A71A9C09-FA2E-4F1F-BDC1-795D0A743767}|PracticeRun\\PracticeRun.csproj|D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\practicerun\\pr_tuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A71A9C09-FA2E-4F1F-BDC1-795D0A743767}|PracticeRun\\PracticeRun.csproj|solutionrelative:practicerun\\pr_tuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AB89003-D890-43B6-9D8E-92B0E0B6F3EC}|WebApplication1\\WebApplication1.csproj|D:\\hyoskim\\webApplication1\\WebApplication1\\webapplication1\\viewswitcher.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8AB89003-D890-43B6-9D8E-92B0E0B6F3EC}|WebApplication1\\WebApplication1.csproj|D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\webapplication1\\viewswitcher.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AB89003-D890-43B6-9D8E-92B0E0B6F3EC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewswitcher.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AB89003-D890-43B6-9D8E-92B0E0B6F3EC}|WebApplication1\\WebApplication1.csproj|D:\\hyoskim\\webApplication1\\WebApplication1\\webapplication1\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "AbsoluteMoniker": "D:0:0:{8AB89003-D890-43B6-9D8E-92B0E0B6F3EC}|WebApplication1\\WebApplication1.csproj|D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\webapplication1\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
       "RelativeMoniker": "D:0:0:{8AB89003-D890-43B6-9D8E-92B0E0B6F3EC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AB89003-D890-43B6-9D8E-92B0E0B6F3EC}|WebApplication1\\WebApplication1.csproj|D:\\hyoskim\\webApplication1\\WebApplication1\\webapplication1\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{8AB89003-D890-43B6-9D8E-92B0E0B6F3EC}|WebApplication1\\WebApplication1.csproj|D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\webapplication1\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{8AB89003-D890-43B6-9D8E-92B0E0B6F3EC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     }
   ],
@@ -50,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,89 +74,99 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "packages.config",
-              "DocumentMoniker": "D:\\hyoskim\\webApplication1\\WebApplication1\\DBCon\\packages.config",
-              "RelativeDocumentMoniker": "DBCon\\packages.config",
-              "ToolTip": "D:\\hyoskim\\webApplication1\\WebApplication1\\DBCon\\packages.config",
-              "RelativeToolTip": "DBCon\\packages.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-12-09T05:59:28.324Z",
+              "DocumentIndex": 4,
+              "Title": "AccountEntity.cs",
+              "DocumentMoniker": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\DBCon\\Entity\\Account\\AccountEntity.cs",
+              "RelativeDocumentMoniker": "DBCon\\Entity\\Account\\AccountEntity.cs",
+              "ToolTip": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\DBCon\\Entity\\Account\\AccountEntity.cs",
+              "RelativeToolTip": "DBCon\\Entity\\Account\\AccountEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T02:57:53.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginContext.cs",
+              "DocumentMoniker": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\DBCon\\Context\\Account\\LoginContext.cs",
+              "RelativeDocumentMoniker": "DBCon\\Context\\Account\\LoginContext.cs",
+              "ToolTip": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\DBCon\\Context\\Account\\LoginContext.cs",
+              "RelativeToolTip": "DBCon\\Context\\Account\\LoginContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:03:12.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.aspx",
+              "DocumentMoniker": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\WebApplication1\\About.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\About.aspx",
+              "ToolTip": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\WebApplication1\\About.aspx",
+              "RelativeToolTip": "WebApplication1\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-24T07:36:11.832Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\DBCon\\App.config",
+              "RelativeDocumentMoniker": "DBCon\\App.config",
+              "ToolTip": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\DBCon\\App.config",
+              "RelativeToolTip": "DBCon\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-17T04:35:01.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\DBCon\\packages.config",
+              "RelativeDocumentMoniker": "DBCon\\packages.config",
+              "ToolTip": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\DBCon\\packages.config",
+              "RelativeToolTip": "DBCon\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-09T05:59:28.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\hyoskim\\webApplication1\\WebApplication1\\DBCon\\Program.cs",
+              "DocumentMoniker": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\DBCon\\Program.cs",
               "RelativeDocumentMoniker": "DBCon\\Program.cs",
-              "ToolTip": "D:\\hyoskim\\webApplication1\\WebApplication1\\DBCon\\Program.cs",
+              "ToolTip": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\DBCon\\Program.cs",
               "RelativeToolTip": "DBCon\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T05:59:14.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\hyoskim\\webApplication1\\WebApplication1\\PracticeRun\\Program.cs",
-              "RelativeDocumentMoniker": "PracticeRun\\Program.cs",
-              "ToolTip": "D:\\hyoskim\\webApplication1\\WebApplication1\\PracticeRun\\Program.cs",
-              "RelativeToolTip": "PracticeRun\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T05:59:00.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "PR_Tuple.cs",
-              "DocumentMoniker": "D:\\hyoskim\\webApplication1\\WebApplication1\\PracticeRun\\PR_Tuple.cs",
+              "DocumentMoniker": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\PracticeRun\\PR_Tuple.cs",
               "RelativeDocumentMoniker": "PracticeRun\\PR_Tuple.cs",
-              "ToolTip": "D:\\hyoskim\\webApplication1\\WebApplication1\\PracticeRun\\PR_Tuple.cs",
+              "ToolTip": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\PracticeRun\\PR_Tuple.cs",
               "RelativeToolTip": "PracticeRun\\PR_Tuple.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T05:58:59.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T05:58:59.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Front.aspx.cs",
-              "DocumentMoniker": "D:\\hyoskim\\webApplication1\\WebApplication1\\WebApplication1\\Board\\Front.aspx.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Board\\Front.aspx.cs",
-              "ToolTip": "D:\\hyoskim\\webApplication1\\WebApplication1\\WebApplication1\\Board\\Front.aspx.cs",
-              "RelativeToolTip": "WebApplication1\\Board\\Front.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T05:17:53.791Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Front.aspx",
-              "DocumentMoniker": "D:\\hyoskim\\webApplication1\\WebApplication1\\WebApplication1\\Board\\Front.aspx",
-              "RelativeDocumentMoniker": "WebApplication1\\Board\\Front.aspx",
-              "ToolTip": "D:\\hyoskim\\webApplication1\\WebApplication1\\WebApplication1\\Board\\Front.aspx",
-              "RelativeToolTip": "WebApplication1\\Board\\Front.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-21T05:16:56.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "ViewSwitcher.ascx.cs",
-              "DocumentMoniker": "D:\\hyoskim\\webApplication1\\WebApplication1\\WebApplication1\\ViewSwitcher.ascx.cs",
+              "DocumentMoniker": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\WebApplication1\\ViewSwitcher.ascx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\ViewSwitcher.ascx.cs",
-              "ToolTip": "D:\\hyoskim\\webApplication1\\WebApplication1\\WebApplication1\\ViewSwitcher.ascx.cs",
+              "ToolTip": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\WebApplication1\\ViewSwitcher.ascx.cs",
               "RelativeToolTip": "WebApplication1\\ViewSwitcher.ascx.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAA5wCcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -148,11 +174,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "ViewSwitcher.ascx",
-              "DocumentMoniker": "D:\\hyoskim\\webApplication1\\WebApplication1\\WebApplication1\\ViewSwitcher.ascx",
+              "DocumentMoniker": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\WebApplication1\\ViewSwitcher.ascx",
               "RelativeDocumentMoniker": "WebApplication1\\ViewSwitcher.ascx",
-              "ToolTip": "D:\\hyoskim\\webApplication1\\WebApplication1\\WebApplication1\\ViewSwitcher.ascx",
+              "ToolTip": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\WebApplication1\\ViewSwitcher.ascx",
               "RelativeToolTip": "WebApplication1\\ViewSwitcher.ascx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
@@ -160,11 +186,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
+              "Title": "DbCon.cs",
+              "DocumentMoniker": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\DBCon\\Base\\DbCon.cs",
+              "RelativeDocumentMoniker": "DBCon\\Base\\DbCon.cs",
+              "ToolTip": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\DBCon\\Base\\DbCon.cs",
+              "RelativeToolTip": "DBCon\\Base\\DbCon.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:50:16.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\WebApplication1\\Account\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Account\\Login.aspx.cs",
+              "ToolTip": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\WebApplication1\\Account\\Login.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Account\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:38:33.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Site.Master",
-              "DocumentMoniker": "D:\\hyoskim\\webApplication1\\WebApplication1\\WebApplication1\\Site.Master",
+              "DocumentMoniker": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\WebApplication1\\Site.Master",
               "RelativeDocumentMoniker": "WebApplication1\\Site.Master",
-              "ToolTip": "D:\\hyoskim\\webApplication1\\WebApplication1\\WebApplication1\\Site.Master",
+              "ToolTip": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\WebApplication1\\Site.Master",
               "RelativeToolTip": "WebApplication1\\Site.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -172,30 +223,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DbCon.cs",
-              "DocumentMoniker": "D:\\hyoskim\\webApplication1\\WebApplication1\\DBCon\\DbCon.cs",
-              "RelativeDocumentMoniker": "DBCon\\DbCon.cs",
-              "ToolTip": "D:\\hyoskim\\webApplication1\\WebApplication1\\DBCon\\DbCon.cs",
-              "RelativeToolTip": "DBCon\\DbCon.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T02:50:16.847Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+              "DocumentIndex": 6,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\WebApplication1\\Account\\Login.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Account\\Login.aspx",
+              "ToolTip": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\WebApplication1\\Account\\Login.aspx",
+              "RelativeToolTip": "WebApplication1\\Account\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-24T07:38:21.343Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\PracticeRun\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeRun\\Program.cs",
+              "ToolTip": "D:\\HYOSKIM\\Practice01\\c_sharp_commit_test\\PracticeRun\\Program.cs",
+              "RelativeToolTip": "PracticeRun\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:59:00.799Z"
             }
           ]
         }

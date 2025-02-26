@@ -50,7 +50,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DbCon.cs" />
+    <Compile Include="Context\Account\LoginContext.cs" />
+    <Compile Include="Base\DbCon.cs" />
+    <Compile Include="Entity\Account\AccountEntity.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
