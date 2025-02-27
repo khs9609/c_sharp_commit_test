@@ -13,14 +13,14 @@ namespace DBCon
     public class DbCon : IDisposable
     {
         string connectionStringKey = ConfigurationManager.ConnectionStrings["HRDB"].ConnectionString;
-        
+
         private SqlDatabase db  = null;
 
 
         /// <summary>
         /// Database에 접근
         /// </summary>
-        protected SqlDatabase DbConnetion
+        protected SqlDatabase DB
         {
             get 
             {
@@ -49,25 +49,6 @@ namespace DBCon
             DatabaseFactory.SetDatabaseProviderFactory(factory, false);
             this.db = (SqlDatabase)DatabaseFactory.CreateDatabase(connectionString);
         }
-
-        //public DbCon()
-        //{
-        //    DatabaseProviderFactory factory = new DatabaseProviderFactory();
-        //    DatabaseFactory.SetDatabaseProviderFactory(factory, false);
-        //    this.db = (SqlDatabase)DatabaseFactory.CreateDatabase(connString);
-        //}
-
-        //public DbCon(string connectionString)
-        //{
-        //    if (string.IsNullOrEmpty(connectionString))
-        //    {
-        //        throw new ArgumentException("The value can not be null or an empty string.", "connectionString");
-        //    }
-            
-        //    DatabaseProviderFactory factory = new DatabaseProviderFactory();
-        //    DatabaseFactory.SetDatabaseProviderFactory(factory, false);
-        //    this.db = (SqlDatabase)DatabaseFactory.CreateDatabase(connectionString);
-        //}
 
         #region IDisposable Support
 

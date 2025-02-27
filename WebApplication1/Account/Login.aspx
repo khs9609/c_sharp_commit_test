@@ -6,6 +6,22 @@
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title></title>
+    <script src="../scripts/jquery-3.7.0.js"></script>
+    <script>
+        $(function () {
+
+        });
+
+        function emptyChk() {
+            let ID = $("#<%=txt_ID.ClientID%>").val();
+            let PW = $("#<%=txt_PW.ClientID%>").val();
+
+            if (ID == "" || PW == "") {
+                alert("fail");
+                return false;
+            }
+        }
+    </script>
 </head>
 <body>
     <form id="form1" runat="server">

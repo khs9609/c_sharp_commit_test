@@ -6,6 +6,8 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using DBCon;
+using DBCon.Context.Account;
+using DBCon.Entity.Account;
 
 namespace WebApplication1.Login
 {
@@ -13,28 +15,32 @@ namespace WebApplication1.Login
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            DbCon db = new DbCon();
+            
         }
 
         public void UserCheck ()
         {
-`           using ()
+            using (LoginContext lc = new LoginContext())
             {
-                try
-                {
+                AccountEntity entity = new AccountEntity();
+                entity.UserID = txt_ID.Text;
+                entity.UserPW = txt_PW.Text;
 
+                bool result = lc.AccountCheck(entity);
+
+                if (result) { 
+                    Response.Redirect("../About.aspx");        
                 }
-                catch (Exception ex)
+                else
                 {
-                    
-                    throw ex;
+                    Page.ClientScript.RegisterStartupScript(typeof(Page), "scriptKey", "<script>alert('fail login');</script>", false);
                 }
             }
         }
 
         protected void Login_Click(object sender, EventArgs e)
         {
-            
+            UserCheck();
         }
     }
 }

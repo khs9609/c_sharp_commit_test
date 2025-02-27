@@ -5,3 +5,15 @@ D:\hyoskim\webApplication1\WebApplication1\DBCon\obj\Debug\DBCon.csproj.Assembly
 D:\hyoskim\webApplication1\WebApplication1\DBCon\obj\Debug\DBCon.csproj.CoreCompileInputs.cache
 D:\hyoskim\webApplication1\WebApplication1\DBCon\obj\Debug\DBCon.exe
 D:\hyoskim\webApplication1\WebApplication1\DBCon\obj\Debug\DBCon.pdb
+D:\HYOSKIM\Practice01\c_sharp_commit_test\DBCon\obj\Debug\DBCon.csproj.AssemblyReference.cache
+D:\HYOSKIM\Practice01\c_sharp_commit_test\DBCon\obj\Debug\DBCon.csproj.CoreCompileInputs.cache
+D:\HYOSKIM\Practice01\c_sharp_commit_test\DBCon\obj\Debug\DBCon.exe
+D:\HYOSKIM\Practice01\c_sharp_commit_test\DBCon\obj\Debug\DBCon.pdb
+D:\HYOSKIM\Practice01\c_sharp_commit_test\DBCon\bin\Debug\DBCon.exe.config
+D:\HYOSKIM\Practice01\c_sharp_commit_test\DBCon\bin\Debug\DBCon.exe
+D:\HYOSKIM\Practice01\c_sharp_commit_test\DBCon\bin\Debug\DBCon.pdb
+D:\HYOSKIM\Practice01\c_sharp_commit_test\DBCon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\HYOSKIM\Practice01\c_sharp_commit_test\DBCon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\HYOSKIM\Practice01\c_sharp_commit_test\DBCon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\HYOSKIM\Practice01\c_sharp_commit_test\DBCon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\HYOSKIM\Practice01\c_sharp_commit_test\DBCon\obj\Debug\DBCon.csproj.Up2Date
