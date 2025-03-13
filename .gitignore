@@ -1,0 +1,18 @@
+# Visual Studio files
+.vs/
+.vscode/
+.idea/
+
+# 빌드 출력 파일들
+bin/
+obj/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# 사용자별 설정 파일들
+*.user
+*.userosscache
+*.suo
+*.userprefs

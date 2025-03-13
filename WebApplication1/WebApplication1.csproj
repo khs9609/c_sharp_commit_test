@@ -122,10 +122,13 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Account\Login.aspx" />
+    <Content Include="Pages\Front\Main.aspx" />
     <Content Include="Practice\board_write_done.aspx" />
     <Content Include="Practice\count.aspx" />
     <Content Include="Practice\Defalut.aspx" />
     <Content Include="Practice\board_write.html" />
+    <Content Include="Practice\postback.aspx" />
+    <Content Include="Practice\StreamWritePractice.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -221,6 +224,13 @@
     <Compile Include="Account\Login.aspx.designer.cs">
       <DependentUpon>Login.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Pages\Front\Main.aspx.cs">
+      <DependentUpon>Main.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Front\Main.aspx.designer.cs">
+      <DependentUpon>Main.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Practice\board_write_done.aspx.cs">
       <DependentUpon>board_write_done.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -241,6 +251,20 @@
     </Compile>
     <Compile Include="Practice\Defalut.aspx.designer.cs">
       <DependentUpon>Defalut.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Practice\postback.aspx.cs">
+      <DependentUpon>postback.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Practice\postback.aspx.designer.cs">
+      <DependentUpon>postback.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Practice\StreamWritePractice.aspx.cs">
+      <DependentUpon>StreamWritePractice.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Practice\StreamWritePractice.aspx.designer.cs">
+      <DependentUpon>StreamWritePractice.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">
@@ -268,7 +292,8 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Entity\" />
-    <Folder Include="Home\" />
+    <Folder Include="Pages\Board\" />
+    <Folder Include="Pages\Common\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

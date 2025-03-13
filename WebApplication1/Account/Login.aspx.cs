@@ -29,11 +29,11 @@ namespace WebApplication1.Login
                 bool result = lc.AccountCheck(entity);
 
                 if (result) { 
-                    Response.Redirect("../About.aspx");        
+                    Response.Redirect("../Pages/Front/Main.aspx");        
                 }
                 else
                 {
-                    Page.ClientScript.RegisterStartupScript(typeof(Page), "scriptKey", "<script>alert('fail login');</script>", false);
+                    Page.ClientScript.RegisterStartupScript(typeof(System.Web.UI.Page), "scriptKey", "<script>alert('fail login');</script>", false);
                 }
             }
         }
