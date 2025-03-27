@@ -6,8 +6,8 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using DBCon;
-using DBCon.Context.Account;
-using DBCon.Entity.Account;
+using DBCon.Context;
+using DBCon.Account;
 
 namespace WebApplication1.Login
 {

@@ -41,7 +41,9 @@ namespace DBCon
 
         public DbCon(string connectionString)
         {
-            if (string.IsNullOrEmpty(connectionString))
+            string connString = ConfigurationManager.ConnectionStrings[connectionString]?.ConnectionString;
+            //if (string.IsNullOrEmpty(connectionString))
+            if (string.IsNullOrEmpty(connString))
             {
                 throw new ArgumentNullException("The value can not be null or an empty string.", "connectionString");
             }

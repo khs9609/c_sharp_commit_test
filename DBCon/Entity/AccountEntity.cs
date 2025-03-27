@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DBCon.Entity.Account
+namespace DBCon.Account
 {
     public class AccountEntity
     {

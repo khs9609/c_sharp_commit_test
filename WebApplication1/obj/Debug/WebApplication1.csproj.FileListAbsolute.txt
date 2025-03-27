@@ -146,10 +146,10 @@ D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\obj\Debug\WebApplicati
 D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\obj\Debug\WebAppli.7D14BD69.Up2Date
 D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\obj\Debug\WebApplication1.dll
 D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\obj\Debug\WebApplication1.pdb
-D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\bin\DBCon.exe
 D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
 D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
 D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\bin\DBCon.pdb
-D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\bin\DBCon.exe.config
 D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
 D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\bin\DBCon.dll
+D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\bin\DBCon.dll.config

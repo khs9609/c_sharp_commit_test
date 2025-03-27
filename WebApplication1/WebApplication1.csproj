@@ -122,6 +122,8 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Account\Login.aspx" />
+    <Content Include="Pages\Board\BasicBoard.aspx" />
+    <Content Include="Pages\Board\BasicBoard_2.aspx" />
     <Content Include="Pages\Front\Main.aspx" />
     <Content Include="Practice\board_write_done.aspx" />
     <Content Include="Practice\count.aspx" />
@@ -224,6 +226,20 @@
     <Compile Include="Account\Login.aspx.designer.cs">
       <DependentUpon>Login.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Pages\Board\BasicBoard.aspx.cs">
+      <DependentUpon>BasicBoard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Board\BasicBoard.aspx.designer.cs">
+      <DependentUpon>BasicBoard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Board\BasicBoard_2.aspx.cs">
+      <DependentUpon>BasicBoard_2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Board\BasicBoard_2.aspx.designer.cs">
+      <DependentUpon>BasicBoard_2.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Pages\Front\Main.aspx.cs">
       <DependentUpon>Main.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -292,7 +308,6 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Entity\" />
-    <Folder Include="Pages\Board\" />
     <Folder Include="Pages\Common\" />
   </ItemGroup>
   <ItemGroup>

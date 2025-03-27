@@ -5,9 +5,9 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DBCon.Entity.Account;
+using DBCon.Account;
 
-namespace DBCon.Context.Account
+namespace DBCon.Context
 {
     public class LoginContext : DbCon
     {
