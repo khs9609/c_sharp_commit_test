@@ -9,6 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeRun", "PracticeRun\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBCon", "DBCon\DBCon.csproj", "{12750746-2CFB-40D1-A9C5-AE9B11D85056}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "솔루션 항목", "솔루션 항목", "{25D46573-D82F-4E51-8437-B10AA29634BF}"
+	ProjectSection(SolutionItems) = preProject
+		RunCreateSchema\Board_DB.sql = RunCreateSchema\Board_DB.sql
+		RunCreateSchema\HRDB_DB.sql = RunCreateSchema\HRDB_DB.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
