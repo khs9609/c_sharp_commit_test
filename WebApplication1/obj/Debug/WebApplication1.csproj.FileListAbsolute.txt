@@ -153,3 +153,14 @@ D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\bin\Microsoft.Practice
 D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
 D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\bin\DBCon.dll
 D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\bin\DBCon.dll.config
+D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\bin\Aspose.Words.dll
+D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\bin\System.Net.Http.Formatting.dll
+D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\bin\System.Web.Http.dll
+D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\bin\System.Web.Http.WebHost.dll
+D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\bin\Aspose.Words.xml
+D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\bin\System.Net.Http.Formatting.xml
+D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\bin\System.Web.Http.xml
+D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\bin\System.Web.Http.WebHost.xml
+D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\bin\ko\System.Net.Http.Formatting.resources.dll
+D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\bin\ko\System.Web.Http.resources.dll
+D:\HYOSKIM\Practice01\c_sharp_commit_test\WebApplication1\bin\ko\System.Web.Http.WebHost.resources.dll

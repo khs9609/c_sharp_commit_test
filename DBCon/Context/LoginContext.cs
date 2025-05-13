@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using DBCon.Account;
+using System.ComponentModel;
 
 namespace DBCon.Context
 {
@@ -29,6 +30,44 @@ namespace DBCon.Context
                     var result = DB.ExecuteScalar(cmd);
 
                     return Convert.ToInt32(result) == 1;
+                }
+                catch (Exception ex)
+                {
+                    throw ex;
+                }
+            }
+        }
+
+        public List<AccountEntity> GetUserInfo(string UserID)
+        {
+            using (DbCommand cmd = DB.GetStoredProcCommand("sp_GetUserInfo"))
+            {
+                List<AccountEntity> UserList = new List<AccountEntity>();
+                AccountEntity entity = new AccountEntity();
+
+                try
+                {
+                    DB.AddInParameter(cmd, "@UserID", DbType.String, UserID.ToString());
+
+                    using (DataSet ds = DB.ExecuteDataSet(cmd))
+                    {
+                        if(ds != null)
+                        {
+                            if (ds.Tables[0].Rows.Count > 0)
+                            {
+                                DataRow row = ds.Tables[0].Rows[0];
+
+                                entity.UserID = row["UserID"].ToString();
+                                entity.UserName = row["UserName"].ToString();
+                                entity.Email = row["EmailAddress"].ToString();
+                            }
+                        }
+
+                        UserList.Add(entity);
+
+                        return UserList;
+                    }
+
                 }
                 catch (Exception ex)
                 {

@@ -17,8 +17,8 @@
         <div class="first-contents">
             <div style="width : 35%">
                 <div class="first-contents-title">
-                    <div><a href="../Board/BasicBoard.aspx"><b><span>테스트1</span></b></a></div>
-                    <div><a href="../Board/BasicBoard_2.aspx"><b><span>테스트2</span></b></a></div>
+                    <div><a href="../Board/BasicBoard.aspx"><b><span>GridView 게시판</span></b></a></div>
+                    <div><a href="../Board/BasicBoard_2.aspx"><b><span>Table 게시판</span></b></a></div>
                 </div>
                 <div class="first-contents-content">so</div>
             </div>

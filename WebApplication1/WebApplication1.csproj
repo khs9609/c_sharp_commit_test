@@ -44,13 +44,26 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Aspose.Words, Version=25.4.0.0, Culture=neutral, PublicKeyToken=716fcc553a201e56, processorArchitecture=MSIL">
+      <HintPath>..\packages\Aspose.Words.25.4.0\lib\net462\Aspose.Words.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Net.Http.Formatting, Version=5.2.9.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.9\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
     <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Http, Version=5.2.9.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Core.5.2.9\lib\net45\System.Web.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.WebHost, Version=5.2.9.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.WebHost.5.2.9\lib\net45\System.Web.Http.WebHost.dll</HintPath>
+    </Reference>
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Web" />
@@ -123,6 +136,8 @@
     <Content Include="Global.asax" />
     <Content Include="Account\Login.aspx" />
     <Content Include="Pages\Board\BasicBoard.aspx" />
+    <Content Include="Pages\Board\BasicBoardEdit.aspx" />
+    <Content Include="Pages\Board\BasicBoardView.aspx" />
     <Content Include="Pages\Board\BasicBoard_2.aspx" />
     <Content Include="Pages\Front\Main.aspx" />
     <Content Include="Practice\board_write_done.aspx" />
@@ -193,6 +208,7 @@
     <Content Include="Site.Mobile.Master" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="API\DocumentController.cs" />
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="About.aspx.cs">
       <DependentUpon>About.aspx</DependentUpon>
@@ -232,6 +248,20 @@
     </Compile>
     <Compile Include="Pages\Board\BasicBoard.aspx.designer.cs">
       <DependentUpon>BasicBoard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Board\BasicBoardEdit.aspx.cs">
+      <DependentUpon>BasicBoardEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Board\BasicBoardEdit.aspx.designer.cs">
+      <DependentUpon>BasicBoardEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Board\BasicBoardView.aspx.cs">
+      <DependentUpon>BasicBoardView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Board\BasicBoardView.aspx.designer.cs">
+      <DependentUpon>BasicBoardView.aspx</DependentUpon>
     </Compile>
     <Compile Include="Pages\Board\BasicBoard_2.aspx.cs">
       <DependentUpon>BasicBoard_2.aspx</DependentUpon>

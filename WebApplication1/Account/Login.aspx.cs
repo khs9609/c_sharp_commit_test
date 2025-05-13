@@ -28,7 +28,9 @@ namespace WebApplication1.Login
 
                 bool result = lc.AccountCheck(entity);
 
-                if (result) { 
+                if (result)
+                {
+                    Session["LoginUserID"] = txt_ID.Text;
                     Response.Redirect("../Pages/Front/Main.aspx");        
                 }
                 else
